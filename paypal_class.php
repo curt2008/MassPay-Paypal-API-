@@ -1,4 +1,10 @@
 <?php
+	/*
+    		Twitter : @CCrewe2
+    		Email : curtis@budgetwebsitesolutions.co.uk
+    		Skype : Paid4Upload
+  	*/
+  
   class Paypal {
 		
 		public function __construct($username, $password, $signature) {
