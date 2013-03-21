@@ -1,5 +1,11 @@
 <?php
-  require "paypal_class.php";
+  	/*
+    		Twitter : @CCrewe2
+    		Email : curtis@budgetwebsitesolutions.co.uk
+    		Skype : Paid4Upload
+  	*/
+  	
+  	require "paypal_class.php";
 	$paypal = new Paypal("api username", "api password", "api signature");
 	
 	$send_payment = $paypal->pay("email@email.com", "50.00", "Thanks for an amazing service");
