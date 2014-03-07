@@ -1,8 +1,8 @@
 <?php
 	/*
-    		Twitter : @CCrewe2
+    		Twitter : @curtiscrewe
     		Email : curtis@budgetwebsitesolutions.co.uk
-    		Skype : Paid4Upload
+    		Skype : bws-curtis
   	*/
   
   class Paypal {
